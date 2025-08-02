@@ -79,3 +79,5 @@ C:\Users\Brayan Hernandez\Downloads\Desarrollo2\ApiProductos\ApiProductos\obj\De
 C:\Users\Brayan Hernandez\Downloads\Desarrollo2\ApiProductos\ApiProductos\obj\Debug\net8.0\ApiProductos.pdb
 C:\Users\Brayan Hernandez\Downloads\Desarrollo2\ApiProductos\ApiProductos\obj\Debug\net8.0\ApiProductos.genruntimeconfig.cache
 C:\Users\Brayan Hernandez\Downloads\Desarrollo2\ApiProductos\ApiProductos\obj\Debug\net8.0\ref\ApiProductos.dll
+C:\Users\Brayan Hernandez\Downloads\Desarrollo2\ApiProductos\ApiProductos\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Brayan Hernandez\Downloads\Desarrollo2\ApiProductos\ApiProductos\obj\Debug\net8.0\ApiProductos.sourcelink.json

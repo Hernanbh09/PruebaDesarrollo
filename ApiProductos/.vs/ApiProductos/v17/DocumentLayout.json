@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\Brayan Hernandez\\Downloads\\Desarrollo2\\ApiProductos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ABC9EC22-6413-40D8-83CB-910E03E69B1C}|ApiProductos\\ApiProductos.csproj|c:\\users\\brayan hernandez\\downloads\\desarrollo2\\apiproductos\\apiproductos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ABC9EC22-6413-40D8-83CB-910E03E69B1C}|ApiProductos\\ApiProductos.csproj|solutionrelative:apiproductos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC9EC22-6413-40D8-83CB-910E03E69B1C}|ApiProductos\\ApiProductos.csproj|c:\\users\\brayan hernandez\\downloads\\desarrollo2\\apiproductos\\apiproductos\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC9EC22-6413-40D8-83CB-910E03E69B1C}|ApiProductos\\ApiProductos.csproj|solutionrelative:apiproductos\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC9EC22-6413-40D8-83CB-910E03E69B1C}|ApiProductos\\ApiProductos.csproj|c:\\users\\brayan hernandez\\downloads\\desarrollo2\\apiproductos\\apiproductos\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC9EC22-6413-40D8-83CB-910E03E69B1C}|ApiProductos\\ApiProductos.csproj|solutionrelative:apiproductos\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC9EC22-6413-40D8-83CB-910E03E69B1C}|ApiProductos\\ApiProductos.csproj|c:\\users\\brayan hernandez\\downloads\\desarrollo2\\apiproductos\\apiproductos\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC9EC22-6413-40D8-83CB-910E03E69B1C}|ApiProductos\\ApiProductos.csproj|solutionrelative:apiproductos\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC9EC22-6413-40D8-83CB-910E03E69B1C}|ApiProductos\\ApiProductos.csproj|c:\\users\\brayan hernandez\\downloads\\desarrollo2\\apiproductos\\apiproductos\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC9EC22-6413-40D8-83CB-910E03E69B1C}|ApiProductos\\ApiProductos.csproj|solutionrelative:apiproductos\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC9EC22-6413-40D8-83CB-910E03E69B1C}|ApiProductos\\ApiProductos.csproj|c:\\users\\brayan hernandez\\downloads\\desarrollo2\\apiproductos\\apiproductos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC9EC22-6413-40D8-83CB-910E03E69B1C}|ApiProductos\\ApiProductos.csproj|solutionrelative:apiproductos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ABC9EC22-6413-40D8-83CB-910E03E69B1C}|ApiProductos\\ApiProductos.csproj|c:\\users\\brayan hernandez\\downloads\\desarrollo2\\apiproductos\\apiproductos\\services\\productoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABC9EC22-6413-40D8-83CB-910E03E69B1C}|ApiProductos\\ApiProductos.csproj|solutionrelative:apiproductos\\services\\productoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,24 +43,12 @@
       "RelativeMoniker": "D:0:0:{ABC9EC22-6413-40D8-83CB-910E03E69B1C}|ApiProductos\\ApiProductos.csproj|solutionrelative:apiproductos\\interfaces\\iproductoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABC9EC22-6413-40D8-83CB-910E03E69B1C}|ApiProductos\\ApiProductos.csproj|c:\\users\\brayan hernandez\\downloads\\desarrollo2\\apiproductos\\apiproductos\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABC9EC22-6413-40D8-83CB-910E03E69B1C}|ApiProductos\\ApiProductos.csproj|solutionrelative:apiproductos\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ABC9EC22-6413-40D8-83CB-910E03E69B1C}|ApiProductos\\ApiProductos.csproj|c:\\users\\brayan hernandez\\downloads\\desarrollo2\\apiproductos\\apiproductos\\interfaces\\iproductorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABC9EC22-6413-40D8-83CB-910E03E69B1C}|ApiProductos\\ApiProductos.csproj|solutionrelative:apiproductos\\interfaces\\iproductorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ABC9EC22-6413-40D8-83CB-910E03E69B1C}|ApiProductos\\ApiProductos.csproj|c:\\users\\brayan hernandez\\downloads\\desarrollo2\\apiproductos\\apiproductos\\repositories\\productorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABC9EC22-6413-40D8-83CB-910E03E69B1C}|ApiProductos\\ApiProductos.csproj|solutionrelative:apiproductos\\repositories\\productorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABC9EC22-6413-40D8-83CB-910E03E69B1C}|ApiProductos\\ApiProductos.csproj|c:\\users\\brayan hernandez\\downloads\\desarrollo2\\apiproductos\\apiproductos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{ABC9EC22-6413-40D8-83CB-910E03E69B1C}|ApiProductos\\ApiProductos.csproj|solutionrelative:apiproductos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABC9EC22-6413-40D8-83CB-910E03E69B1C}|ApiProductos\\ApiProductos.csproj|c:\\users\\brayan hernandez\\downloads\\desarrollo2\\apiproductos\\apiproductos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABC9EC22-6413-40D8-83CB-910E03E69B1C}|ApiProductos\\ApiProductos.csproj|solutionrelative:apiproductos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,36 +58,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Brayan Hernandez\\Downloads\\Desarrollo2\\ApiProductos\\ApiProductos\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ApiProductos\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Brayan Hernandez\\Downloads\\Desarrollo2\\ApiProductos\\ApiProductos\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ApiProductos\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T15:52:36.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Brayan Hernandez\\Downloads\\Desarrollo2\\ApiProductos\\ApiProductos\\Models\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "ApiProductos\\Models\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\Brayan Hernandez\\Downloads\\Desarrollo2\\ApiProductos\\ApiProductos\\Models\\JwtSettings.cs",
+              "RelativeToolTip": "ApiProductos\\Models\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T15:49:55.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\Brayan Hernandez\\Downloads\\Desarrollo2\\ApiProductos\\ApiProductos\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "ApiProductos\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\Brayan Hernandez\\Downloads\\Desarrollo2\\ApiProductos\\ApiProductos\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "ApiProductos\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAwwG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T14:35:38.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Brayan Hernandez\\Downloads\\Desarrollo2\\ApiProductos\\ApiProductos\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiProductos\\appsettings.json",
+              "ToolTip": "C:\\Users\\Brayan Hernandez\\Downloads\\Desarrollo2\\ApiProductos\\ApiProductos\\appsettings.json",
+              "RelativeToolTip": "ApiProductos\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-02T14:33:50.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Brayan Hernandez\\Downloads\\Desarrollo2\\ApiProductos\\ApiProductos\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "ApiProductos\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\Brayan Hernandez\\Downloads\\Desarrollo2\\ApiProductos\\ApiProductos\\Models\\Login.cs",
+              "RelativeToolTip": "ApiProductos\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T15:54:50.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Brayan Hernandez\\Downloads\\Desarrollo2\\ApiProductos\\ApiProductos\\Program.cs",
+              "RelativeDocumentMoniker": "ApiProductos\\Program.cs",
+              "ToolTip": "C:\\Users\\Brayan Hernandez\\Downloads\\Desarrollo2\\ApiProductos\\ApiProductos\\Program.cs",
+              "RelativeToolTip": "ApiProductos\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwEMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T14:30:03.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ProductoServicio.cs",
               "DocumentMoniker": "C:\\Users\\Brayan Hernandez\\Downloads\\Desarrollo2\\ApiProductos\\ApiProductos\\Services\\ProductoServicio.cs",
               "RelativeDocumentMoniker": "ApiProductos\\Services\\ProductoServicio.cs",
               "ToolTip": "C:\\Users\\Brayan Hernandez\\Downloads\\Desarrollo2\\ApiProductos\\ApiProductos\\Services\\ProductoServicio.cs",
               "RelativeToolTip": "ApiProductos\\Services\\ProductoServicio.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAwDkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowDkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-02T14:42:03.097Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductosController.cs",
-              "DocumentMoniker": "C:\\Users\\Brayan Hernandez\\Downloads\\Desarrollo2\\ApiProductos\\ApiProductos\\Controllers\\ProductosController.cs",
-              "RelativeDocumentMoniker": "ApiProductos\\Controllers\\ProductosController.cs",
-              "ToolTip": "C:\\Users\\Brayan Hernandez\\Downloads\\Desarrollo2\\ApiProductos\\ApiProductos\\Controllers\\ProductosController.cs",
-              "RelativeToolTip": "ApiProductos\\Controllers\\ProductosController.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAkwG0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T14:35:38.295Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\Brayan Hernandez\\Downloads\\Desarrollo2\\ApiProductos\\ApiProductos\\Models\\Producto.cs",
               "RelativeDocumentMoniker": "ApiProductos\\Models\\Producto.cs",
@@ -83,11 +161,12 @@
               "RelativeToolTip": "ApiProductos\\Models\\Producto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T14:41:52.174Z"
+              "WhenOpened": "2025-08-02T14:41:52.174Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "IProductoServicio.cs",
               "DocumentMoniker": "C:\\Users\\Brayan Hernandez\\Downloads\\Desarrollo2\\ApiProductos\\ApiProductos\\Interfaces\\IProductoServicio.cs",
               "RelativeDocumentMoniker": "ApiProductos\\Interfaces\\IProductoServicio.cs",
@@ -95,11 +174,12 @@
               "RelativeToolTip": "ApiProductos\\Interfaces\\IProductoServicio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T14:34:52.007Z"
+              "WhenOpened": "2025-08-02T14:34:52.007Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "CrearProducto.cs",
               "DocumentMoniker": "C:\\Users\\Brayan Hernandez\\Downloads\\Desarrollo2\\ApiProductos\\ApiProductos\\Models\\CrearProducto.cs",
               "RelativeDocumentMoniker": "ApiProductos\\Models\\CrearProducto.cs",
@@ -107,11 +187,12 @@
               "RelativeToolTip": "ApiProductos\\Models\\CrearProducto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T14:44:03.79Z"
+              "WhenOpened": "2025-08-02T14:44:03.79Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "IProductoRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\Brayan Hernandez\\Downloads\\Desarrollo2\\ApiProductos\\ApiProductos\\Interfaces\\IProductoRepositorio.cs",
               "RelativeDocumentMoniker": "ApiProductos\\Interfaces\\IProductoRepositorio.cs",
@@ -119,11 +200,12 @@
               "RelativeToolTip": "ApiProductos\\Interfaces\\IProductoRepositorio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T14:34:50.748Z"
+              "WhenOpened": "2025-08-02T14:34:50.748Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "ProductoRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\Brayan Hernandez\\Downloads\\Desarrollo2\\ApiProductos\\ApiProductos\\Repositories\\ProductoRepositorio.cs",
               "RelativeDocumentMoniker": "ApiProductos\\Repositories\\ProductoRepositorio.cs",
@@ -131,31 +213,8 @@
               "RelativeToolTip": "ApiProductos\\Repositories\\ProductoRepositorio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T14:27:07.865Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Brayan Hernandez\\Downloads\\Desarrollo2\\ApiProductos\\ApiProductos\\appsettings.json",
-              "RelativeDocumentMoniker": "ApiProductos\\appsettings.json",
-              "ToolTip": "C:\\Users\\Brayan Hernandez\\Downloads\\Desarrollo2\\ApiProductos\\ApiProductos\\appsettings.json",
-              "RelativeToolTip": "ApiProductos\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-02T14:33:50.207Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Brayan Hernandez\\Downloads\\Desarrollo2\\ApiProductos\\ApiProductos\\Program.cs",
-              "RelativeDocumentMoniker": "ApiProductos\\Program.cs",
-              "ToolTip": "C:\\Users\\Brayan Hernandez\\Downloads\\Desarrollo2\\ApiProductos\\ApiProductos\\Program.cs",
-              "RelativeToolTip": "ApiProductos\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAUwCEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T14:30:03.008Z"
+              "WhenOpened": "2025-08-02T14:27:07.865Z",
+              "EditorCaption": ""
             }
           ]
         }
