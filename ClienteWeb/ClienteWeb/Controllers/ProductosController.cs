@@ -15,15 +15,33 @@ namespace ClienteWeb.Controllers
         }
         public async Task<IActionResult> Index()
         {
-            var respuesta = await _httpClient.GetAsync("");
-            respuesta.EnsureSuccessStatusCode();
+            IEnumerable<Producto> productos = new List<Producto>();
+            string? mensajeError = null;
 
-            var contenido = await respuesta.Content.ReadAsStringAsync();
-            var productos = JsonSerializer.Deserialize<IEnumerable<Producto>>(contenido,
-                new JsonSerializerOptions { PropertyNameCaseInsensitive = true })!;
+            try
+            {
+                var respuesta = await _httpClient.GetAsync("");
+                if (respuesta.IsSuccessStatusCode)
+                {
+                    var contenido = await respuesta.Content.ReadAsStringAsync();
+                    productos = JsonSerializer.Deserialize<IEnumerable<Producto>>(contenido,
+                        new JsonSerializerOptions { PropertyNameCaseInsensitive = true })!;
+                }
+                else
+                {
+                    mensajeError = $"La API respondió con {(int)respuesta.StatusCode} {respuesta.StatusCode}.";
+                }
+            }
+            catch (HttpRequestException)
+            {
+                mensajeError = "No se pudo conectar al servicio API. Por favor, compruebe que esté iniciado y vuelva a intentarlo.";
+            }
+
+            ViewBag.ErrorConexion = mensajeError;
 
             return View(productos);
         }
+
         public IActionResult Crear()
         {
             return View();

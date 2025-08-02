@@ -2,10 +2,11 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+var productosUrl = builder.Configuration["ApiSettings:ProductosUrl"]!;
 
 builder.Services.AddHttpClient("ApiProductos", client =>
 {
-    client.BaseAddress = new Uri("https://localhost:7053/api/Productos/");
+    client.BaseAddress = new Uri(productosUrl);
 });
 var app = builder.Build();
 

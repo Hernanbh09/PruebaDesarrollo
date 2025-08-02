@@ -2,10 +2,18 @@
 @{
     Layout = "_Layout";
     var mensaje = TempData["MensajeExito"] as string;
+    var error = ViewBag.ErrorConexion as string;
 }
 
 <div class="container mt-4">
     <h2>Listado de Productos</h2>
+
+    @if (!string.IsNullOrEmpty(error))
+    {
+        <div class="alert alert-danger" role="alert">
+            @error
+        </div>
+    }
     <a asp-action="Crear" class="btn btn-success mb-3">
         Nuevo Producto
     </a>

@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Brayan Hernandez\\Downloads\\Desarrollo2\\ClienteWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB9C706A-C0D2-4620-BFD8-3F1311C4E961}|ClienteWeb\\ClienteWeb.csproj|c:\\users\\brayan hernandez\\downloads\\desarrollo2\\clienteweb\\clienteweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DB9C706A-C0D2-4620-BFD8-3F1311C4E961}|ClienteWeb\\ClienteWeb.csproj|solutionrelative:clienteweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DB9C706A-C0D2-4620-BFD8-3F1311C4E961}|ClienteWeb\\ClienteWeb.csproj|c:\\users\\brayan hernandez\\downloads\\desarrollo2\\clienteweb\\clienteweb\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB9C706A-C0D2-4620-BFD8-3F1311C4E961}|ClienteWeb\\ClienteWeb.csproj|solutionrelative:clienteweb\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DB9C706A-C0D2-4620-BFD8-3F1311C4E961}|ClienteWeb\\ClienteWeb.csproj|c:\\users\\brayan hernandez\\downloads\\desarrollo2\\clienteweb\\clienteweb\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB9C706A-C0D2-4620-BFD8-3F1311C4E961}|ClienteWeb\\ClienteWeb.csproj|solutionrelative:clienteweb\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB9C706A-C0D2-4620-BFD8-3F1311C4E961}|ClienteWeb\\ClienteWeb.csproj|c:\\users\\brayan hernandez\\downloads\\desarrollo2\\clienteweb\\clienteweb\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DB9C706A-C0D2-4620-BFD8-3F1311C4E961}|ClienteWeb\\ClienteWeb.csproj|solutionrelative:clienteweb\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DB9C706A-C0D2-4620-BFD8-3F1311C4E961}|ClienteWeb\\ClienteWeb.csproj|c:\\users\\brayan hernandez\\downloads\\desarrollo2\\clienteweb\\clienteweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9C706A-C0D2-4620-BFD8-3F1311C4E961}|ClienteWeb\\ClienteWeb.csproj|solutionrelative:clienteweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9C706A-C0D2-4620-BFD8-3F1311C4E961}|ClienteWeb\\ClienteWeb.csproj|c:\\users\\brayan hernandez\\downloads\\desarrollo2\\clienteweb\\clienteweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DB9C706A-C0D2-4620-BFD8-3F1311C4E961}|ClienteWeb\\ClienteWeb.csproj|solutionrelative:clienteweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9C706A-C0D2-4620-BFD8-3F1311C4E961}|ClienteWeb\\ClienteWeb.csproj|c:\\users\\brayan hernandez\\downloads\\desarrollo2\\clienteweb\\clienteweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB9C706A-C0D2-4620-BFD8-3F1311C4E961}|ClienteWeb\\ClienteWeb.csproj|solutionrelative:clienteweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DB9C706A-C0D2-4620-BFD8-3F1311C4E961}|ClienteWeb\\ClienteWeb.csproj|c:\\users\\brayan hernandez\\downloads\\desarrollo2\\clienteweb\\clienteweb\\views\\productos\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DB9C706A-C0D2-4620-BFD8-3F1311C4E961}|ClienteWeb\\ClienteWeb.csproj|solutionrelative:clienteweb\\views\\productos\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB9C706A-C0D2-4620-BFD8-3F1311C4E961}|ClienteWeb\\ClienteWeb.csproj|c:\\users\\brayan hernandez\\downloads\\desarrollo2\\clienteweb\\clienteweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB9C706A-C0D2-4620-BFD8-3F1311C4E961}|ClienteWeb\\ClienteWeb.csproj|solutionrelative:clienteweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DB9C706A-C0D2-4620-BFD8-3F1311C4E961}|ClienteWeb\\ClienteWeb.csproj|c:\\users\\brayan hernandez\\downloads\\desarrollo2\\clienteweb\\clienteweb\\views\\shared\\_modalexito.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -46,43 +50,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Brayan Hernandez\\Downloads\\Desarrollo2\\ClienteWeb\\ClienteWeb\\Program.cs",
-              "RelativeDocumentMoniker": "ClienteWeb\\Program.cs",
-              "ToolTip": "C:\\Users\\Brayan Hernandez\\Downloads\\Desarrollo2\\ClienteWeb\\ClienteWeb\\Program.cs",
-              "RelativeToolTip": "ClienteWeb\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T15:11:24.469Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Eliminar.cshtml",
-              "DocumentMoniker": "C:\\Users\\Brayan Hernandez\\Downloads\\Desarrollo2\\ClienteWeb\\ClienteWeb\\Views\\Productos\\Eliminar.cshtml",
-              "RelativeDocumentMoniker": "ClienteWeb\\Views\\Productos\\Eliminar.cshtml",
-              "ToolTip": "C:\\Users\\Brayan Hernandez\\Downloads\\Desarrollo2\\ClienteWeb\\ClienteWeb\\Views\\Productos\\Eliminar.cshtml",
-              "RelativeToolTip": "ClienteWeb\\Views\\Productos\\Eliminar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-02T15:10:34.037Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Brayan Hernandez\\Downloads\\Desarrollo2\\ClienteWeb\\ClienteWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "ClienteWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\Brayan Hernandez\\Downloads\\Desarrollo2\\ClienteWeb\\ClienteWeb\\appsettings.json",
+              "RelativeToolTip": "ClienteWeb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-02T15:33:17.747Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Brayan Hernandez\\Downloads\\Desarrollo2\\ClienteWeb\\ClienteWeb\\Views\\Productos\\Index.cshtml",
               "RelativeDocumentMoniker": "ClienteWeb\\Views\\Productos\\Index.cshtml",
               "ToolTip": "C:\\Users\\Brayan Hernandez\\Downloads\\Desarrollo2\\ClienteWeb\\ClienteWeb\\Views\\Productos\\Index.cshtml",
               "RelativeToolTip": "ClienteWeb\\Views\\Productos\\Index.cshtml",
-              "ViewState": "AgIAABQAAAAAAAAAAAAswDYAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-02T15:07:50.446Z",
               "EditorCaption": ""
@@ -95,14 +86,39 @@
               "RelativeDocumentMoniker": "ClienteWeb\\Controllers\\ProductosController.cs",
               "ToolTip": "C:\\Users\\Brayan Hernandez\\Downloads\\Desarrollo2\\ClienteWeb\\ClienteWeb\\Controllers\\ProductosController.cs",
               "RelativeToolTip": "ClienteWeb\\Controllers\\ProductosController.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGoAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwBsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-02T15:02:32.564Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Brayan Hernandez\\Downloads\\Desarrollo2\\ClienteWeb\\ClienteWeb\\Program.cs",
+              "RelativeDocumentMoniker": "ClienteWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\Brayan Hernandez\\Downloads\\Desarrollo2\\ClienteWeb\\ClienteWeb\\Program.cs",
+              "RelativeToolTip": "ClienteWeb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T15:11:24.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Eliminar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Brayan Hernandez\\Downloads\\Desarrollo2\\ClienteWeb\\ClienteWeb\\Views\\Productos\\Eliminar.cshtml",
+              "RelativeDocumentMoniker": "ClienteWeb\\Views\\Productos\\Eliminar.cshtml",
+              "ToolTip": "C:\\Users\\Brayan Hernandez\\Downloads\\Desarrollo2\\ClienteWeb\\ClienteWeb\\Views\\Productos\\Eliminar.cshtml",
+              "RelativeToolTip": "ClienteWeb\\Views\\Productos\\Eliminar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-02T15:10:34.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Brayan Hernandez\\Downloads\\Desarrollo2\\ClienteWeb\\ClienteWeb\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ClienteWeb\\Views\\Shared\\_Layout.cshtml",
@@ -115,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "_ModalExito.cshtml",
               "DocumentMoniker": "C:\\Users\\Brayan Hernandez\\Downloads\\Desarrollo2\\ClienteWeb\\ClienteWeb\\Views\\Shared\\_ModalExito.cshtml",
               "RelativeDocumentMoniker": "ClienteWeb\\Views\\Shared\\_ModalExito.cshtml",
@@ -123,12 +139,11 @@
               "RelativeToolTip": "ClienteWeb\\Views\\Shared\\_ModalExito.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-02T15:16:56.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T15:16:56.737Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Editar.cshtml",
               "DocumentMoniker": "C:\\Users\\Brayan Hernandez\\Downloads\\Desarrollo2\\ClienteWeb\\ClienteWeb\\Views\\Productos\\Editar.cshtml",
               "RelativeDocumentMoniker": "ClienteWeb\\Views\\Productos\\Editar.cshtml",
@@ -136,12 +151,11 @@
               "RelativeToolTip": "ClienteWeb\\Views\\Productos\\Editar.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-02T15:09:37.718Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T15:09:37.718Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Crear.cshtml",
               "DocumentMoniker": "C:\\Users\\Brayan Hernandez\\Downloads\\Desarrollo2\\ClienteWeb\\ClienteWeb\\Views\\Productos\\Crear.cshtml",
               "RelativeDocumentMoniker": "ClienteWeb\\Views\\Productos\\Crear.cshtml",
@@ -149,12 +163,11 @@
               "RelativeToolTip": "ClienteWeb\\Views\\Productos\\Crear.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-02T15:08:33.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T15:08:33.511Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\Brayan Hernandez\\Downloads\\Desarrollo2\\ClienteWeb\\ClienteWeb\\Models\\Producto.cs",
               "RelativeDocumentMoniker": "ClienteWeb\\Models\\Producto.cs",
@@ -162,8 +175,7 @@
               "RelativeToolTip": "ClienteWeb\\Models\\Producto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T15:02:00.896Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T15:02:00.896Z"
             }
           ]
         }
